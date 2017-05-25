@@ -1,6 +1,6 @@
 # GroupSesh
 
-*smoke with me*
+*smoke with us*
 
 ## Overview 
 Adoe consolidates and curates all foundations and charities through a single centralized platform where all donations are made easy. Our application reinvents the process of donating by eliminating the hassle of creating multiple accounts, re-entering credit card information, and maneuvring through the vast world of charities. With Adoe, foundations don't need to waste valuable dollars and time building and marketing their own app. We take care of the app so foundations can take care of what they do best. 
